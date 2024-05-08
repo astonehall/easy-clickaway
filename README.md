@@ -1,6 +1,6 @@
 # Clickaway hook demo - React + TypeScript + Vite
 
-Small demo to demenstrate the easy click away hook. 
+Small demo to demonstrate the click away hook. 
 
 If you just need the hook feel free to grab it from [/src/hooks](https://github.com/astonehall/easy-clickaway/blob/main/src/hooks/useClickAway.ts)
 
